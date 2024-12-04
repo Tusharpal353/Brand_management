@@ -2,7 +2,7 @@ import { Bell, User2Icon } from "lucide-react";
 
 const Header = () => {
   return (
-    <div className="border  p-5 w-full">
+    <div className="border  bg-white p-5 w-full">
       <div className=" flex justify-between">
         <input 
           type="text"

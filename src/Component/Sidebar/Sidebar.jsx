@@ -14,7 +14,7 @@ import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   return (
-    <div className="border ">
+    <div className="border  ">
       <div className="w-64 h-screen">
         <h1 className="font-bold text-3xl p-8 flex justify-center">tuks</h1>
         <ul className="border flex flex-col gap-3 p-3 text-gray-500 cursor-pointer">
